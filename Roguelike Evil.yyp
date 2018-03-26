@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0a6a9b9b-227f-4d44-ab14-d4eeca746bf4",
+            "Value": {
+                "id": "db10bd18-c77f-4d7c-b677-d81e052b7b9b",
+                "resourcePath": "sounds\\bg_sound\\bg_sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "13ace575-0e23-4023-b783-fe22e8136744",
             "Value": {
                 "id": "6d0e1807-4c9e-4a24-a964-aa35ef0954cc",
@@ -439,6 +447,14 @@
             }
         },
         {
+            "Key": "b267158a-8462-4e0e-8173-13e043da127c",
+            "Value": {
+                "id": "a9dd7692-2fc8-4f43-a391-814f0a373dc7",
+                "resourcePath": "sprites\\s_wall_tiles1\\s_wall_tiles1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b67d298e-88ed-4e37-83b4-763cc9525c60",
             "Value": {
                 "id": "7813289c-c78e-47ea-ba64-da5dbc15bc1c",
@@ -516,6 +532,14 @@
                 "id": "9b4966b3-a6eb-4256-bb45-cb16f2188536",
                 "resourcePath": "sprites\\police_up_shooting\\police_up_shooting.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dbe37635-d9ef-47ad-925e-2e531740de4d",
+            "Value": {
+                "id": "593629f1-eb9c-413d-ac1f-090907daff29",
+                "resourcePath": "tilesets\\t_walls1\\t_walls1.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
